@@ -33,7 +33,7 @@ I am a Flutter Developer & Data Analyst <img src="https://media.giphy.com/media/
 
 - :seedling:Learning and exploring the field of App Development using Flutter and Data Analysis.
 
-- :zap: In my free time, I solve watch Cricket.
+- :zap: In my free time, I watch Cricket.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-0998b11b5/)
 ---
