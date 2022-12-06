@@ -9,8 +9,8 @@
   <a href="https://www.facebook.com/profile.php?id=100010637342838">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/muhammadsaad311?t=_YYJxdBZnNz8g4GkNR7Tfg&s=08">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://medium.com/@muhammadsaad3119">
+    <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
   
 </div>
